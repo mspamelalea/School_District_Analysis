@@ -31,6 +31,7 @@ Resulting analysis of the district's standardized testing data.
 School District Summary after removing invalid scores
 
 How is the district summary affected?
+
 - The average math score dropped by < 1%
 - The average reading score was not affected
 - The percentage passing math dropped by 1%
@@ -38,16 +39,19 @@ How is the district summary affected?
 - The overall passing rate dropped by 1%
 
 How is the school summary affected?
+
 - The Per School summary was only affected for Thomas High School:
 -  percentage passing math dropped from 93.2% to 66.9%
 -  percentage passing reading dropped from 97.3% to 69.7%
 -  overall passing percentage dropped from 90.9% to 65.1%
 
 How were the School rankings affected?
+
 - Thomas High School dropped out of the Top 5 moving Wright High School into the top 5
 - The Bottom 5 schools remained the same
 
 How were the other reports affected?
+
 	Math and Reading Scores by Grade remained the same except for Thomas High School which 
     reported had no data to report
 
